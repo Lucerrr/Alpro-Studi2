@@ -94,8 +94,7 @@ int main(){
   	else {
     subtotal = bayar;
   	}
- 	
-  	cout << "Subtotal \t: Rp " << subtotal << endl;
+ 	cout << "Subtotal \t: Rp " << subtotal << endl;
   	cout << "========================Terima Kasih=========================" << endl;
   	cout << "=====================Atas Kunjungan Anda=====================" << endl;
   	
@@ -176,6 +175,5 @@ int main(){
 	struk << "========================Terima Kasih=========================" << endl;
 	struk << "=====================Atas Kunjungan Anda=====================" << endl;
 	struk.close();
-	
 	return 0;
 }
